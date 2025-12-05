@@ -2,6 +2,9 @@
 OSM Place Search Tool (Qt)
 A lightweight Qt desktop application that provides fast location search using the OpenStreetMap Nominatim API. Users can search any place and view results in a structured table, including OSM ID, place name, type, and full address. The OSM ID can be copied instantly by double-clicking the table cell. No API key required.
 
+<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/abf823d1-4dd4-42a4-b877-2e43d0c344e0" />
+
+
 Users can quickly look up:
 
     OSM ID
